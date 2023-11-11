@@ -8,15 +8,25 @@ The analysis is conducted by predicting a number of variables. Examples include 
 
 ## Results
 
-* Machine Learning Model 1: Model 1 utilises the original data to create a Logistic Regression model. The results from this model are as follows:
-        - Accuracy: 0.9924164259182832
-        - Precision: For class purple, 1.00 and for class yellow, 0.87
-        - Recall: For class purple, 1.00 and for class yellow, 0.89
+Machine Learning Model 1: Model 1 utilises the original data to create a Logistic Regression model. The results from this model are as follows:
 
-* Machine Learning Model 2: Model 2 utilises resampled data using over sampling to create a Logistic Regression model. The results from this model are as follows:
-        - Accuracy: 0.994180571103648
-        - Precision: For class purple, 0.99 and for class yellow, 0.99
-        - Recall: For class purple, 0.99 and for class yellow, 0.99
+•	Accuracy: 0.9924164259182832
+
+•	Precision: For class purple, 1.00 and for class yellow, 0.87
+
+•	Recall: For class purple, 1.00 and for class yellow, 0.89
+
+#
+
+Machine Learning Model 2: Model 2 utilises resampled data using over sampling to create a Logistic Regression model. The results from this model are as follows:
+
+•	Accuracy: 0.994180571103648
+
+•	Precision: For class purple, 0.99 and for class yellow, 0.99
+
+•	Recall: For class purple, 0.99 and for class yellow, 0.99
+
+#
 
 ## Summary
 
